@@ -1,6 +1,8 @@
 *Cobblestone road sound*
 URL https://freesound.org/people/klankbeeld/sounds/244295/
 
+Freesound.org
+
 Recorded by klankbeeld
 
 Licensed under Attribution License
@@ -9,12 +11,16 @@ Licensed under Attribution License
 *Footsteps on leaves*
 URL https://freesound.org/people/InspectorJ/sounds/329598/
 
+Freesound.org
+
 Recorded by InspectorJ
 
 Licensed under Attribution License
 
 *Footsteps on concrete*
 URL https://freesound.org/people/InspectorJ/sounds/336598/
+
+Freesound.org
 
 Recorded by InspectorJ
 
@@ -29,6 +35,8 @@ Recorded by Garrett Ley
 *Birds Chirping*
 URL https://freesound.org/people/freelibras/sounds/327445/
 
+Freesound.org
+
 Recorded by freelibras
 
 Licensed under Creative Commons 0 License
@@ -41,6 +49,8 @@ Performed by Matt Zillonis
 *Ambient city noise*
 URL https://freesound.org/people/silencyo/sounds/148889/
 
+Freesound.org
+
 Recorded by silencyo
 
 Licensed under Attribution License
@@ -48,12 +58,16 @@ Licensed under Attribution License
 *Rustling Leaves*
 URL https://freesound.org/people/FunWithSound/sounds/406099/
 
+Freesound.org
+
 Recorded by FunWithSound
 
 Licensed under Creative Commons 0 license
 
 *Ambient Conversation*
 URL https://freesound.org/people/klankbeeld/sounds/127590/
+
+Freesound.org
 
 Recorded by klankbeeld
 
@@ -65,6 +79,8 @@ Recorded by Garrett Ley
 
 *Woods*
 URL https://freesound.org/people/Ephemeral_Rift/sounds/76385/
+
+Freesound.org
 
 Recorded by Ephemeral_Rift
 
