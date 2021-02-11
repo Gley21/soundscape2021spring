@@ -32,10 +32,12 @@ Licensed under Attribution License
 
 ----------------------------------
 Soundscape Narration .mp3
+
 Recorded by Garrett Ley
 
 ----------------------------------
 Downstairs-outthedoor.m4a
+
 Recorded by Garrett Ley
 
 ----------------------------------
@@ -52,7 +54,8 @@ Licensed under Creative Commons 0 License
 ----------------------------------
 Trombone.mp3
 
-Summertime composed by George Gershwin
+*Summertime* composed by George Gershwin
+
 Performed by Matt Zillonis
 
 ----------------------------------
@@ -90,6 +93,7 @@ Licensed under Attribution License
 
 ----------------------------------
 Creek.m4a
+
 Recorded by Garrett Ley
 
 ----------------------------------
