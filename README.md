@@ -1,7 +1,3 @@
-This is Garrett's soundscape project
+Walking Nowhere 
 
-I'd like the soundscape to kind of be inspired by the following quote from T.S. Eliot
-
-"We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time."
-
-Listen to the Audacity file with "First Draft" in it
+The most important part of a journey is rarely the end, but the space in between the start and the finish. I hope that this soundscape might encourage you to go and have a walk to nowhere of your own. You might get anywhere, but take a moment and enjoy the trip. By the end you might find you went to more places than you could've imagined, simply by going nowhere at all.
